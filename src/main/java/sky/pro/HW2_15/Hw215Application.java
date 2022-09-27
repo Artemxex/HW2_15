@@ -8,6 +8,8 @@ public class Hw215Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Hw215Application.class, args);
+
+
 	}
 
 }
